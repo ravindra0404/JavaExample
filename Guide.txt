@@ -1,0 +1,33 @@
+Hi Kavya, 
+
+I did some exmples they are...
+
+Successfull Attemp: 
+
+1. Install Git in your system and Create a public accout in Git Hub.
+	
+	Note : GIT and GITHUB are different.
+	GIT -> Creating for local repository.
+	GITHUB -> Creating for remote repository.
+
+2. Create one remote repository in GITHUB and copy the link of the repository.
+
+Fallow the step to create the GIT local repository and similarly for the GITHUB remote repository.
+
+3. Fallow the step to create the basic java project in jenkins and run the program in jenkins (Both eclipse and normal local java file).
+
+4. Did PUSH and PULL operation using GIT and GITHUB.
+
+Un-successfull Attemp: Please try to configure 
+
+1. I am unable to configure the Git in Jenkins(Error : Failed to connect to repository :Error performing command:  ls-remote -h git@github.com:ravindra0404/JavaExample.git HEAD).
+
+2. I am unable to do the configuration for Junit testing in Jenkins.
+
+3. I am able to install "Deploy to container Plugin" but unable to configure Automation Deployment in build project.
+
+
+
+
+
+
