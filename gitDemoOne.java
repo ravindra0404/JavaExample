@@ -1,4 +1,4 @@
-public class JavaGit{
+public class gitDemoOne{
 
 	public static void main(String[] args) {
 	System.out.println("This line is added newly");
