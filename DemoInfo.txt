@@ -1,0 +1,7 @@
+Topics for demo :
+
+1. GIT and GITHUB configuration. 
+2. Configuration of GIT in jenkins.
+3. Maven Project in Eclipse used to build and deploy.
+4. Jenkins with Normal .java file and java file in eclipse.
+5. Sonar Code analysis for testing Java Program and Using jenkins.
